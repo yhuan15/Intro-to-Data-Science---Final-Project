@@ -3,13 +3,15 @@ I have been studying Data Science for a semester and I am doing this project to 
 Author: Yiming Huang
 Date: 13 Dec 2020
 
+
 # Introduction: 
-Perhaps one of the most significant purposes of our life is to be happy. What actually makes up happy? This question has plagued philosophers for years and most people fail in their quest for happiness because it is too complicated. Fortunately, researchers have made questionnaires worldwide, called “The World Happiness Report”, to further explore the answer to this question through scientific process. The science of happiness describes personal and national variations in happiness. The report continues to gain global recognition as governments and organizations can use the results to further the policymaking process and assess the progress of countries.
+Perhaps one of the most significant purposes of our life is to be happy. But what actually makes us happy? This question has plagued philosophers for years. Fortunately, researchers have made questionnaires worldwide, called “The World Happiness Report”, to further explore the answer to this question through a scientific process. The science of happiness describes personal and national variations in happiness. The report continues to gain global recognition as governments and organizations can use the results to further the policymaking process and assess the progress of countries.
 The dataset that I have chosen for this project is their “2019 World Happiness Report”. It ranks 156 countries by their happiness score based on six measurements – economic production (GDP per capita), social support, healthy life expectancy, freedom, generosity, and government corruption. I used the R language and my main focus is to find out the impact of each factor on happiness. As a result, we can focus on improving these factors to accomplish a higher level of happiness. 
+
 
 # Goals of the project / Research Questions:
 1.	To discover which factors are more important for us to live a happier life. 
-2.	I intend to find out if there is any association between the continent and its average happiness score. For example, people who live in European countries are always thought to be happier. I hope to examine if this is misinformation. 
+2.	I intend to discover if there is any trend for different continents. For example, people who live in European countries are always thought to be happier. I hope to examine if this is misinformation. 
 3.	I hope to find out any similarities and differences among the countries experiencing the highest or lowest happiness level. 
 
 # Content: 
