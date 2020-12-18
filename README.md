@@ -14,18 +14,24 @@ The dataset that I have chosen for this project is their “2019 World Happiness
 2.	I intend to discover if there is any trend for different continents. For example, people who live in European countries are always thought to be happier. I hope to examine if this is misinformation. 
 3.	I hope to find out any similarities and differences among the countries experiencing the highest or lowest happiness level. 
 
-# Content: 
-I have chosen the World Happiness Report dataset (2019) on Kaggle. In this dataset, we can find happiness rank and score among 156 countries globally based on six factors. The higher the happiness rank, the higher the happiness score. From the shape, we can see that the dataset includes 156 rows and 9 columns.
 
 # Definition of the 9 variables:
 •	Happiness Rank: Rank of the country based on the Happiness Score.
+
 •	Country: Name of the country.
+
 •	Happiness Score: A metric measured by asking the sampled people the question: "How would you rate your happiness on a scale of 0 to 10 where 10 is the happiest."
+
 •	GDP per capita: This indicates economic prosperity of each country.  
+
 •	Social support:  This indicates socio-emotional development of the citizens.
+
 •	Healthy life expectancy: This indicates physical health of the citizens.
+
 •	Freedom to make life choices: The national average of binary responses to the GWP question “Are you satisfied or dissatisfied with your freedom to choose what you do with your life?”
+
 •	Generosity: The shared public values of generosity.
+
 •	Perceptions of corruption: This indicates social trust, including confidence in the honesty of government and business. 
 
 
